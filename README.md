@@ -8,7 +8,6 @@ A small beginner game made in Unity with C#.
 
 ## Controls
 - Move: WASD
-- Jump: Space
 
 ## Built with
 - Unity
