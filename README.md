@@ -1,10 +1,10 @@
 # Simple Game: Cube Runner
-<p align="center">
-  <img src="7fac18b529695f20b986ad7982819558.jpg" width="900" />
+<p>
+  <img src="Screenshot (84).png" width="500" />
 </p>
 
 
-A small beginner game made in Unity with C#.
+A small beginner game made in Unity.
 
 ## Play
 [Play on itch.io](https://gamesbykaito.itch.io/your-game-name)
