@@ -7,10 +7,10 @@
 A small beginner game made in Unity.
 
 ## Play
-[Play on itch.io](https://gamesbykaito.itch.io/your-game-name)
+[Play on itch.io](https://gamesbykaito.itch.io/cube-runner))
 
 ## Controls
-- Move: WASD
+- Move: A for Left | D for Right
 
 ## Built with
 - Unity
